@@ -1,0 +1,11 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+<div id="demo">
+  <h2> Ievadiet savu apliecibas numuru</h2>
+  <button type="button" onclick="loadDoc()">Starts</button>
+</div>
+
+</body>
+</html> 

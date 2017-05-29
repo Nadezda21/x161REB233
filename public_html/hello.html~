@@ -1,0 +1,14 @@
+<html>
+<body>
+<img scr="https://lh5.ggpht.com/genvIPvVE0a2KLRYKaHcXFJhHwcjpWqfr1WqLY9cesnDT-RBDp7oIq9-ThSr9A7GVIU=w300" onclick='lampa(this)'/>
+
+</body>
+
+<script>
+function lampa(obj) 
+{obj.scr='on.jpg';
+function lampaoff(obj)
+{obj.scr='off.jpg'}
+</script>
+
+</html>
